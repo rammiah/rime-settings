@@ -5,53 +5,74 @@ patch:
   # 以下软件默认英文模式
   app_options:
     org.gnu.Emacs:
-      ascii_mode: true
-    com.apple.dt.Xcode:
-      ascii_mode: true
+      ascii_mode: false
+      ascii_punct: true
     com.runningwithcrayons.Alfred:
-      ascii_mode: true
+      ascii_mode: false
+      ascii_punct: true
     com.apple.Terminal:
-      ascii_mode: true
+      ascii_mode: false
+      ascii_punct: true
     com.googlecode.iterm2:
-      ascii_mode: true
+      ascii_mode: false
+      ascii_punct: true
     com.apple.finder:
-      ascii_mode: true
+      ascii_mode: false
+      ascii_punct: true
     com.sublimetext.4:
-      ascii_mode: true
+      ascii_mode: false
+      ascii_punct: true
     com.apple.calculator:
-      ascii_mode: true
+      ascii_mode: false
+      ascii_punct: true
     com.apple.launchpad.launcher:
-      ascii_mode: true
+      ascii_mode: false
+      ascii_punct: true
     com.apple.systempreferences:
-      ascii_mode: true
+      ascii_mode: false
+      ascii_punct: true
     com.apple.ActivityMonitor:
-      ascii_mode: true
+      ascii_mode: false
+      ascii_punct: true
     com.apple.keychainaccess:
-      ascii_mode: true
+      ascii_mode: false
+      ascii_punct: true
     com.apple.Spotlight:
-      ascii_mode: true
+      ascii_mode: false
+      ascii_punct: true
     com.jetbrains.intellij:
-      ascii_mode: true
+      ascii_mode: false
+      ascii_punct: true
     com.jetbrains.datagrip:
-      ascii_mode: true
+      ascii_mode: false
+      ascii_punct: true
     com.jetbrains.pycharm:
-      ascii_mode: true
+      ascii_mode: false
+      ascii_punct: true
     io.nteract.nteract:
-      ascii_mode: true
+      ascii_mode: false
+      ascii_punct: true
     com.sequelpro.SequelPro:
-      ascii_mode: true
+      ascii_mode: false
+      ascii_punct: true
     io.termix.client:
-      ascii_mode: true
+      ascii_mode: false
+      ascii_punct: true
     com.agilebits.onepassword7:
-      ascii_mode: true
+      ascii_mode: false
+      ascii_punct: true
     com.agilebits.onepassword7-helper:
-      ascii_mode: true
+      ascii_mode: false
+      ascii_punct: true
     com.kapeli.dashdoc:
-      ascii_mode: true
+      ascii_mode: false
+      ascii_punct: true
     com.svend.uPic:
-      ascii_mode: true
+      ascii_mode: false
+      ascii_punct: true
     com.eusoft.eudic:
-      ascii_mode: true
+      ascii_mode: false
+      ascii_punct: true
       
 
 # 如果想要修改皮肤，直接更改 color_scheme 的值即可
