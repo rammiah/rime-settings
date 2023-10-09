@@ -18,7 +18,7 @@ patch:
     - {accept: period, send: Page_Down, when: has_menu}
     - {accept: bracketleft, send: Page_Up, when: paging}
     - {accept: bracketright, send: Page_Down, when: has_menu}
-  "menu/page_size": 7
+  "menu/page_size": 9
   schema_list:
     - {schema: luna_pinyin}
     - {schema: luna_pinyin_fluency}
